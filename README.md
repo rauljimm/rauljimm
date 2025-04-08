@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate **backend developer** from Spain, obsessed with crafting efficient and interesting projects related to cars and videogames. What sets me apart? I thrive on turning complex challenges into elegant solutions, always with a cup of coffee in hand and a relentless curiosity for perfection.  
+I’m a passionate **backend developer** from Spain, obsessed with developing efficient and interesting projects related to vehicles and videogames mostly.
 
 ---
 
@@ -34,7 +34,7 @@ I’m a passionate **backend developer** from Spain, obsessed with crafting effi
 ---
 
 ## 🎨 Fun Fact  
-When I’m not coding, you’ll find me debugging life’s mysteries or hunting for the perfect playlist to fuel my next backend masterpiece.  
+When I’m not coding, you’ll find me debugging life’s mysteries or hunting for the perfect playlist to fuel my next backend masterpiece. **LITERALLY**.
 
 ---
 
