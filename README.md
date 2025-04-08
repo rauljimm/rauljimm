@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey, I’m Raúl! 👨‍💻  
+### Backend Developer | Python 🐍 | Kotlin 📱 | Java ☕  
 
-<!--
-**rauljimm/rauljimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://img.shields.io/badge/Backend-Developer-blueviolet?style=for-the-badge&logo=codeigniter)  
+![From](https://img.shields.io/badge/From-Spain-FFD700?style=flat&logo=map-pin&logoColor=black)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m a passionate **backend developer** from Spain, obsessed with crafting efficient and interesting projects related to cars and videogames. What sets me apart? I thrive on turning complex challenges into elegant solutions, always with a cup of coffee in hand and a relentless curiosity for perfection.  
+
+---
+
+## 🌟 Key Skills  
+| Language/Tech | Level | Tags |  
+|---------------|-------|------|  
+| **Python** 🐍 | Advanced | ![Python](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) ![Python](https://img.shields.io/badge/-Odoo-714B67?style=flat&logo=odoo) ![Python](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium) |  
+| **Kotlin** 📱 | Advanced | ![Kotlin](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android) ![Kotlin](https://img.shields.io/badge/-Retrofit-FFCA28?style=flat&logo=kotlin) |  
+| **Java** ☕   | Advanced | ![Java](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring) ![Java](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf) |  
+| Databases 🗄️  | Intermediate | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle) |  
+| C++ ⚙️        | Basic | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) |  
+
+### Soft Skills:  
+- 🤝 **Team Player**  
+- 💬 **Effective Communicator**  
+- 🧠 **Self-Critical & Organized**  
+
+---
+
+## 🌐 Languages  
+- **Spanish**: Native 🇪🇸  
+- **English**: Advanced 🇬🇧  
+
+---
+
+## 🎨 Fun Fact  
+When I’m not coding, you’ll find me debugging life’s mysteries or hunting for the perfect playlist to fuel my next backend masterpiece.  
+
+---
+
+## 📬 Let’s Connect!  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)  
+- *Drop me a message—I’m always up for a tech chat!*  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+*“Code is my canvas, and efficiency is my art.”*  
