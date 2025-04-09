@@ -9,9 +9,9 @@
 ## 🚀 About Me  
 I’m a passionate **backend developer** from Spain, obsessed with developing efficient and interesting projects related to vehicles and videogames mostly.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical)
-[![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=rauljimm&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=rauljimm&theme=github)
 
 ---
 
