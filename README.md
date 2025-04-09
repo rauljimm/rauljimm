@@ -43,6 +43,6 @@ When I’m not coding, you’ll find me debugging life’s mysteries or hunting 
 - *Drop me a message—I’m always up for a tech chat!*  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical) 
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical)) 
  
   
