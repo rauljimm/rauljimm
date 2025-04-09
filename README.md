@@ -11,7 +11,6 @@ I’m a passionate **backend developer** from Spain, obsessed with developing ef
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical)
-![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=rauljimm&theme=github)
 
 ---
 
