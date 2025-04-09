@@ -42,5 +42,7 @@ When I’m not coding, you’ll find me debugging life’s mysteries or hunting 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-jiménez-128989355)  
 - *Drop me a message—I’m always up for a tech chat!*  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical) 
  
   
