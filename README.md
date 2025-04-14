@@ -16,7 +16,7 @@ I'm a passionate **backend developer** from Spain, obsessed with developing effi
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-14)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-15)
 
 </div>
 
