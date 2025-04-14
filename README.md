@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **backend developer** from Spain, obsessed with developing efficient and interesting projects related to vehicles and videogames mostly.
+I'm a passionate **backend developer**, obsessed with developing efficient and interesting projects related to videogames mostly.
 
 <div align="center">
   
