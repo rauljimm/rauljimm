@@ -14,9 +14,9 @@
 I'm a passionate **backend developer**, obsessed with developing efficient and interesting projects related to videogames mostly.
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-17)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-18)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radicalcache-buster=2025-04-17)
 
 </div>
 
