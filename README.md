@@ -90,14 +90,6 @@ I'm a passionate **backend developer** with a strong focus on creating efficient
 
 </div>
 
-## 📌 Featured Projects
-
-<div align="center">
-<a href="https://github.com/rauljimm/restaurante-fastapi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauljimm&repo=restaurante-fastapi&theme=radical&hide_border=true" alt="Restaurant Management System" />
-</a>
-</div>
-
 ## 🎮 Fun Fact
 
 When I'm not coding, you'll find me debugging life's mysteries or hunting for the perfect playlist to fuel my next backend masterpiece. **LITERALLY**.
