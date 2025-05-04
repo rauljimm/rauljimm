@@ -15,8 +15,8 @@ I'm a passionate **backend developer**, obsessed with developing efficient and i
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-29)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical&cache-buster=2025-04-29)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-30)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical&cache-buster=2025-04-30)
 
 </div>
 
