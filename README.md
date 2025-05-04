@@ -98,6 +98,3 @@ When I'm not coding, you'll find me debugging life's mysteries or hunting for th
   <img src="https://komarev.com/ghpvc/?username=rauljimm&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/rauljimm/rauljimm/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</div>
