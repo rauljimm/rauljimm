@@ -1,82 +1,81 @@
 <div align="center">
-  
-# 👋 Hello World, I'm Raúl!
 
-### Backend Developer | Problem Solver | Code Enthusiast
+# 👨‍💻 Raúl Jiménez | Backend Developer
 
-![Backend Developer](https://img.shields.io/badge/Backend-Developer-blueviolet?style=for-the-badge&logo=codeigniter)
-![From](https://img.shields.io/badge/From-Spain-FFD700?style=flat&logo=map-pin&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rauljimm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-jiménez-128989355)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rauljimm.dev@gmail.com)
 
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=07A0F6&center=true&vCenter=true&random=false&width=435&lines=Passionate+Backend+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+</div>
 
-I'm a passionate **backend developer**, obsessed with developing efficient and interesting projects related to videogames mostly.
+## 🧠 About Me
+
+I'm a passionate **backend developer** with a strong focus on creating efficient and scalable solutions. I specialize in developing interesting projects related to videogames and enterprise applications. My goal is to write clean, maintainable code that solves real-world problems.
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&cache-buster=2025-04-30)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical&cache-buster=2025-04-30)
-
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauljimm&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 ## 💻 Tech Stack
 
-<table>
+<table align="center">
   <tr>
-    <th>Language/Tech</th>
-    <th>Level</th>
-    <th>Tools & Frameworks</th>
+    <th>Category</th>
+    <th>Technologies</th>
   </tr>
   <tr>
-    <td><b>Python</b> 🐍</td>
-    <td>Advanced</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" alt="Flask" />
-      <img src="https://img.shields.io/badge/-Odoo-714B67?style=flat&logo=odoo" alt="Odoo" />
-      <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium" alt="Selenium" />
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     </td>
   </tr>
   <tr>
-    <td><b>Kotlin</b> 📱</td>
-    <td>Advanced</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android" alt="Android" />
-      <img src="https://img.shields.io/badge/-Retrofit-FFCA28?style=flat&logo=kotlin" alt="Retrofit" />
+    <td align="center"><b>Backend Frameworks</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
     </td>
   </tr>
   <tr>
-    <td><b>Java</b> ☕</td>
-    <td>Advanced</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf" alt="Thymeleaf" />
+    <td align="center"><b>Databases</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b> 🗄️</td>
-    <td>Intermediate</td>
-    <td>
-      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite" alt="SQLite" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle" alt="Oracle" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>C++</b> ⚙️</td>
-    <td>Basic</td>
-    <td>
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++" />
+    <td align="center"><b>Tools & Platforms</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
     </td>
   </tr>
 </table>
 
-## 🧠 Soft Skills
+## 🎯 Key Skills
 
 <div align="center">
   
-| 🤝 Team Player | 💬 Effective Communicator | 🗂️ Self-Critical & Organized |
-|----------------|--------------------------|------------------------------|
+| 🧩 Problem Solving | 🤝 Team Collaboration | 🧠 Critical Thinking |
+|:------------------:|:---------------------:|:--------------------:|
+| 🔄 Adaptability    | 📚 Continuous Learning | 🛠️ Technical Architecture |
 
 </div>
 
@@ -85,25 +84,28 @@ I'm a passionate **backend developer**, obsessed with developing efficient and i
 <div align="center">
   
 | Language | Proficiency |
-|----------|------------|
+|:--------:|:-----------:|
 | 🇪🇸 Spanish | Native |
 | 🇬🇧 English | Advanced |
 
+</div>
+
+## 📌 Featured Projects
+
+<div align="center">
+<a href="https://github.com/rauljimm/restaurante-fastapi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauljimm&repo=restaurante-fastapi&theme=radical&hide_border=true" alt="Restaurant Management System" />
+</a>
 </div>
 
 ## 🎮 Fun Fact
 
 When I'm not coding, you'll find me debugging life's mysteries or hunting for the perfect playlist to fuel my next backend masterpiece. **LITERALLY**.
 
-## 📬 Let's Connect!
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-jiménez-128989355)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rauljimm.dev@gmail.com)
-
+  <img src="https://komarev.com/ghpvc/?username=rauljimm&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <i>Drop me a message—I'm always up for a tech chat!</i>
+  <img src="https://github.com/rauljimm/rauljimm/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </div>
