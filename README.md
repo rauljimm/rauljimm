@@ -18,8 +18,8 @@ I'm a passionate **backend developer** with a strong focus on creating efficient
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&hide_border=true&cachebuster=9" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical&hide_border=true&count_private=true&cachebuster=9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauljimm&layout=compact&theme=radical&hide_border=true&cachebuster=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rauljimm&show_icons=true&theme=radical&hide_border=true&count_private=true&cachebuster=10" alt="GitHub Stats" />
   
 </div>
 
